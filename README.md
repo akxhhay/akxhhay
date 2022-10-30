@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there. I'm Akshay Krishnan 👋
 
-<!--
-**akxhhay/akxhhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ I am a Machine Learning Enthusiast and is interested in Computer Model Building. 
+- 🌱 I’m currently learning Computer Science Engineering with AI and ML in SRM Institute.
+- 🔭 I’m currently working on Data Science  
+- 🧔 More about me:
+  - 💻 My Personal Portfolio Link : https://akxhhay.github.io/Personal-Website/
+  - 🔗 LinkedIn : https://www.linkedin.com/in/akxhhay/
+  - 📫 Email: akshaykrishnanam@gmail.com
+- ☣️ Fun fact: You can see my works down 👇
 
-Here are some ideas to get you started:
+[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=akxhhay&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: akshaykrishnanam@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akxhhay&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
